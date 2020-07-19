@@ -1,0 +1,13 @@
+/**  @format */
+
+export default types = {
+  // TIMER
+  SET_FASTING: "SET_FASTING",
+  SET_READY: "SET_READY",
+  SET_ID: "SET_ID",
+  //COUNTDOWN
+  SET_FAST: "SET_FAST",
+  SET_DURATION: "SET_DURATION",
+  SET_TIMER: "SET_TIMER",
+  GET_TIME: "GET_TIME"
+};
